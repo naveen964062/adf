@@ -1,0 +1,9 @@
+{
+	"name": "naveen96406",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "93e1a608-e4d1-4d79-87d5-e4f2ab53729c",
+		"tenantId": "7359f896-71e2-4dae-b8a3-15cdf97f2f10"
+	}
+}
